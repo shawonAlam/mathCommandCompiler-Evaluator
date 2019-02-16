@@ -127,7 +127,7 @@ mathCommandCompiler-Evaluator is a mathematical command compiler and expression 
  - pop the stack for the right hand operand
  - pop the stack for the left hand operand
  - apply the operator to the two operands
- - push the result onto the stack
+ - push the results onto the stack
  - when the expression has been exhausted the result is the top (and only element) of the stack
  
 ### Supported Operators
