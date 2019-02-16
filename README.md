@@ -148,7 +148,7 @@ mathCommandCompiler-Evaluator is a mathematical command compiler and expression 
 ```
 
 ### Project Layout
-The program was created and tested using Java 10.0.2.
+This program was created and tested using Java 10.0.2.
 
 ## About author
  NAZMUDDIN AL MASOOD 
